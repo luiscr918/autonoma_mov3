@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "558930400943",
+    "firebase_url": "https://app-fire-394da-default-rtdb.firebaseio.com",
+    "project_id": "app-fire-394da",
+    "storage_bucket": "app-fire-394da.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:558930400943:android:07efd40befb444e0b8e65a",
+        "android_client_info": {
+          "package_name": "com.example.app_route_2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhR6nbJ-mSEtyPJ2ZH7mvnO2uHay9Nb4E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:558930400943:android:dc2e513199595b29b8e65a",
+        "android_client_info": {
+          "package_name": "com.example.autonoma_mov3"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhR6nbJ-mSEtyPJ2ZH7mvnO2uHay9Nb4E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
