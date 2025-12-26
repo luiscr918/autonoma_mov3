@@ -61,5 +61,14 @@ Future<void> loguearse(String correo, String contrasenia, context) async {
     } else if (e.code == 'wrong-password') {
       print('Wrong password provided for that user.');
     }
+    showDialog(
+      context: context,
+      builder: (context) {
+        return AlertDialog(
+          title: Text("Error"),
+          content: Text("Error al iniciar Sesion"),
+        );
+      },
+    );
   }
 }
